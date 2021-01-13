@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/james2doyle)
 
 <!--
 **james2doyle/james2doyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
