@@ -1,4 +1,4 @@
-![James Doyle Github Stats](https://github-stats-extended.vercel.app/api?username=james2doyle](https://github-stats-extended.vercel.app/api?username=james2doyle&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
+![James Doyle Github Stats](https://github-stats-extended.vercel.app/api?username=james2doyle&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 
 <!--
 ![James Doyle Github Stats](https://metrics.lecoq.io/james2doyle)
